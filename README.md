@@ -35,3 +35,21 @@ install libraries :
 ```bash
 pip3 install -r requirement.txt
 ```
+### training models and testing
+enter to src :
+```bash
+cd src 
+```
+start with training this steps can take more times
+```bash
+python3 emotions.py --mode train
+```
+this step create a model.h5 it's the machine learning model.
+######
+After that we testing the projects by doing this commande
+```bash
+python3 emotions.py --mode display
+```
+#
+#
+2021
