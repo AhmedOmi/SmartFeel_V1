@@ -1,8 +1,35 @@
-# project detection emotion
+# Portfolio Projects Machine Learning Specialization
+## Project Name : SMARTFEEL
+![icon](icon.ong)
+## Authors :
+#### Ahmed Omar Miladi Cohert2 Holberton School Tunisia. < ahmedomarmiledi@gmail.com >
 
-## Download the datasets from this link
+## Project Description :
 
-https://drive.google.com/file/d/13fkfiEG57hZfRLUi1s4Iob1eSsQAF2bD/view?usp=sharing
+SMARTFEEL is a mobile application based on machine learning and face detection. It works in the background while users use their smartphones and detects their emotions using the face recognition. The application does a psychological analysis and gives the users all the information about their psychological healthcare.
 
-## Download the  haarcascade_frontalface_default.xml to detect frontalface
+## Make the project working :
+### clone repo:
+```bash
+git clone https://github.com/AhmedOmi/SmartFeel_V1.git
+````
+### Download Datasets, Face models and put it in the main directory of project
+FaceModel link
 https://drive.google.com/file/d/1SHwAveFhEIresLatir7yi_hCKrig6cIa/view?usp=sharing
+Datasets link
+```bash
+https://drive.google.com/file/d/13fkfiEG57hZfRLUi1s4Iob1eSsQAF2bD/view?usp=sharing
+```
+### working in new environment and install libraries
+create virtualenv :
+```bash
+python3 -m venv venv
+```
+activate the environment:
+```bash
+source venv/bin/activate
+```
+install libraries :
+```bash
+pip3 install -r requirement.txt
+```
