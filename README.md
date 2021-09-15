@@ -1,6 +1,6 @@
 # Portfolio Projects Machine Learning Specialization
 ## Project Name : SMARTFEEL
-![icon](icon.ong)
+![icon](icon.png)
 ## Authors :
 #### Ahmed Omar Miladi Cohert2 Holberton School Tunisia. < ahmedomarmiledi@gmail.com >
 
