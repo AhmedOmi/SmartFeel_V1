@@ -15,7 +15,9 @@ git clone https://github.com/AhmedOmi/SmartFeel_V1.git
 ````
 ### Download Datasets, Face models and put it in the main directory of project
 FaceModel link
+```bash
 https://drive.google.com/file/d/1SHwAveFhEIresLatir7yi_hCKrig6cIa/view?usp=sharing
+```
 Datasets link
 ```bash
 https://drive.google.com/file/d/13fkfiEG57hZfRLUi1s4Iob1eSsQAF2bD/view?usp=sharing
