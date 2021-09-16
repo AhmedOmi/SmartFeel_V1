@@ -22,6 +22,10 @@ Datasets link
 ```bash
 https://drive.google.com/file/d/13fkfiEG57hZfRLUi1s4Iob1eSsQAF2bD/view?usp=sharing
 ```
+Deep Learning model link
+```bash
+https://drive.google.com/file/d/1QwzgKSf1kP-lTCsLi22eMPJI4QIJ4_n1/view?usp=sharing
+```
 ### working in new environment and install libraries
 create virtualenv :
 ```bash
